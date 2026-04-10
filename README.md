@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Bhole</h1>
-<h3 align="center">🚀 AI-Powered Backend Developer | Full Stack Engineer</h3>
+<h3 align="center">🚀 Backend Developer | AI & Full Stack Systems</h3>
 
 <p align="center">
 💡 Building scalable AI-powered applications
@@ -11,23 +11,6 @@
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,react,flask,fastapi,postgresql,mongodb,aws,git,github" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumit-bhole&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-bhole&theme=radical" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-bhole&theme=react-dark" />
 </p>
 
 ---
@@ -64,5 +47,20 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sumit-bhole&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-bhole&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-bhole&theme=react-dark" />
+</p>
+
+---
 ⭐ *Always building. Always improving.*
