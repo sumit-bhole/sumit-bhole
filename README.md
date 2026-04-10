@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Sumit Bhole
 
-<!--
-**sumit-bhole/sumit-bhole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer | AI + Full Stack Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🎓 Computer Engineering Student (CGPA: 8.20)
+- 💻 Built AI-powered platforms like Acadlinker & ATS Resume Analyzer
+- ⚡ Experience with Flask, FastAPI, React, Supabase
+- ☁️ AWS trained (EC2, S3, RDS)
+
+---
+
+## 🧠 Tech Stack
+**Languages:** Python, Java, SQL, HTML, CSS  
+**Frameworks:** Flask, FastAPI, React  
+**Tools:** Git, GitHub, Vercel, Render  
+**Database:** PostgreSQL, Supabase  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Acadlinker – Skill-Based Networking Platform
+- AI-powered student matching using KNN
+- Real-time collaboration & chat system
+- Built with React + Flask + Supabase  
+---
+
+### 🔹 ATS Resume Analyzer
+- Resume scoring system using NLP techniques
+- Extracts skills from PDF/DOCX using PyMuPDF
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/sumitbhol09
+- 📧 Email: sumitbhole0205@gmail.com
+
+---
+
+⭐ *Always building, always learning.*
