@@ -1,43 +1,68 @@
-# 👋 Hi, I'm Sumit Bhole
+<h1 align="center">Hi 👋, I'm Sumit Bhole</h1>
+<h3 align="center">🚀 AI-Powered Backend Developer | Full Stack Engineer</h3>
 
-🚀 Python Developer | AI + Full Stack Engineer  
-
----
-
-## 💡 About Me
-- 🎓 Computer Engineering Student (CGPA: 8.20)
-- 💻 Built AI-powered platforms like Acadlinker & ATS Resume Analyzer
-- ⚡ Experience with Flask, FastAPI, React, Supabase
-- ☁️ AWS trained (EC2, S3, RDS)
+<p align="center">
+💡 Building scalable AI-powered applications
+</p>
 
 ---
 
-## 🧠 Tech Stack
-**Languages:** Python, Java, SQL, HTML, CSS  
-**Frameworks:** Flask, FastAPI, React  
-**Tools:** Git, GitHub, Vercel, Render  
-**Database:** PostgreSQL, Supabase  
+## 🚀 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,react,flask,fastapi,postgresql,mongodb,aws,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sumit-bhole&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumit-bhole&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumit-bhole&theme=react-dark" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Acadlinker – Skill-Based Networking Platform
-- AI-powered student matching using KNN
-- Real-time collaboration & chat system
-- Built with React + Flask + Supabase  
+### 🔹 Acadlinker – AI Student Networking Platform
+- 🧠 KNN-based skill matching
+- 💬 Real-time collaboration
+- ⚡ Built with React + Flask + Supabase  
+👉 [https://github.com/sumit-bhole/Acadlinker-Student-Networking]
+
 ---
 
 ### 🔹 ATS Resume Analyzer
-- Resume scoring system using NLP techniques
-- Extracts skills from PDF/DOCX using PyMuPDF
+- 📄 Resume parsing using PyMuPDF
+- 📊 Multi-criteria scoring system  
+
+---
+
+## 🏆 Achievements & Experience
+
+- 💼 Software Developer Intern @ Aparaitech
+- ☁️ AWS Cloud Training Completed
+- 🤖 Built AI-powered systems
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sumitbhole09
-- 📧 Email: sumitbhole0205@gmail.com
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sumitbhole09"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
+<a href="mailto:sumitbhole0205@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail"></a>
+</p>
 
 ---
 
-⭐ *Always building, always learning.*
+⭐ *Always building. Always improving.*
