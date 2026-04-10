@@ -35,7 +35,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/sumitbhol09
+- 💼 LinkedIn: https://www.linkedin.com/in/sumitbhole09
 - 📧 Email: sumitbhole0205@gmail.com
 
 ---
